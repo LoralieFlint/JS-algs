@@ -1,0 +1,2 @@
+# JS-algs
+Codewars challenges
